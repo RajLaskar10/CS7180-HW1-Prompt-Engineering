@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "key": "user:3",
+      "value": {
+        "name": "User3",
+        "age": 23
+      },
+      "created_at": 1769968199.6192079,
+      "expires_at": 1769968209.6192079,
+      "access_count": 0,
+      "last_accessed": 1769968199.6192079
+    },
+    {
+      "key": "user:4",
+      "value": {
+        "name": "User4",
+        "age": 24
+      },
+      "created_at": 1769968199.619308,
+      "expires_at": 1769968209.619308,
+      "access_count": 0,
+      "last_accessed": 1769968199.619308
+    },
+    {
+      "key": "user:5",
+      "value": {
+        "name": "User5",
+        "age": 25
+      },
+      "created_at": 1769968199.619414,
+      "expires_at": 1769968209.619414,
+      "access_count": 0,
+      "last_accessed": 1769968199.619414
+    },
+    {
+      "key": "user:6",
+      "value": {
+        "name": "User6",
+        "age": 26
+      },
+      "created_at": 1769968199.6195168,
+      "expires_at": 1769968209.6195168,
+      "access_count": 0,
+      "last_accessed": 1769968199.6195168
+    },
+    {
+      "key": "user:7",
+      "value": {
+        "name": "User7",
+        "age": 27
+      },
+      "created_at": 1769968199.619616,
+      "expires_at": 1769968209.619616,
+      "access_count": 0,
+      "last_accessed": 1769968199.619616
+    }
+  ]
+}
